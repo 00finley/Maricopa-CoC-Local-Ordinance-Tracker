@@ -450,7 +450,7 @@ export default function App() {
       {/* Footer */}
       <footer className="border-t border-slate-200 bg-white mt-8">
         <div className="max-w-7xl mx-auto px-4 py-4 sm:px-6 lg:px-8">
-          <p className="text-center text-xs text-slate-500">Maricopa Association of Governments · Community Initiatives Division · Continuum of Care</p>
+          <p className="text-center text-xs text-slate-500">Maricopa Regional Continuum of Care</p>
         </div>
       </footer>
     </div>
