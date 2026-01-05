@@ -221,8 +221,8 @@ export default function App() {
             </div>
             <div className="mt-4 pt-4 border-t border-blue-200">
               <p className="text-xs text-slate-500">
-                <strong>Data Source:</strong> Maricopa Association of Governments, Community Initiatives Division, 2025. Ordinance text excerpted from municipal codes; verify current language with official sources before citation. 
-                <strong className="ml-2">Contact:</strong> MAG Continuum of Care Program
+                <strong>Data Source:</strong> Community Connections Consulting, 2025. Ordinance text excerpted from municipal codes; verify current language with official sources before citation. 
+                <strong className="ml-2">Contact:</strong> Maricopa Regional Continuum of Care
               </p>
             </div>
           </div>
